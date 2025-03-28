@@ -1,4 +1,4 @@
-# VIGENERE-CIPHER
+# VIGENERE CIPHER
 ## EX. NO: 1(D)
  
 
